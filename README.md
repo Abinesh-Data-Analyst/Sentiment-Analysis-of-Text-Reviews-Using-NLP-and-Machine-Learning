@@ -1,5 +1,7 @@
 # Sentiment Analysis of Text Reviews Using NLP and Machine Learning
 
+![](sentiment_analysis_img.jpg)
+
 ## Project Description
 This project focuses on performing sentiment analysis on a large dataset of text reviews. The primary goal is to classify reviews into three categories: Positive, Negative, and Neutral, based on their textual content. Using Natural Language Processing (NLP) and Machine Learning, the project showcases the complete pipeline from data preprocessing to model evaluation.
 
