@@ -36,6 +36,12 @@ This project focuses on performing sentiment analysis on a large dataset of text
 5. **Insights**:
    - Highlight key findings from the model's performance.
 
+## Usage
+Run the notebook to execute all steps from data loading to model evaluation:
+```bash
+https://colab.research.google.com/drive/1jH7EHhAPHclytqhzQzmcQ2C6AraJbgS3#scrollTo=wV3zB5cVMgH_
+```
+
 ## Results
 The project achieved a high accuracy score, showcasing the effectiveness of the preprocessing and modeling techniques used. The confusion matrix highlights areas for potential improvement.
 
